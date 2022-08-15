@@ -1,0 +1,38 @@
+/* tiltle section */
+.heading {
+  font-size: 8rem;
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-weight: bolder;
+}
+
+/* players section */
+.row {
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+#players .container-fluid{
+  padding: 3% 30%;
+}
+
+/* footer section */
+footer {
+  color: white;
+  padding-bottom: 5%;
+}
+
+.container-fluid {
+  text-align: center;
+  padding: 3% 15%;
+}
+
+body {
+  font-family: 'Indie Flower', cursive;
+  background-color: #393E46;
+}
+
+.smaller {
+  font-size: 7rem;
+}
